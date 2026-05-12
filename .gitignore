@@ -5,3 +5,6 @@ node_modules/
 data/
 .env
 *.log
+CLAUDE.md
+AGENTS.md
+GROWTH.md
