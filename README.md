@@ -6,7 +6,6 @@ Axon provides pub/sub messaging, real-time SSE streaming, webhook fan-out, and c
 
 Port: **4600**  
 Stack: Node 22 + libsql (SQLite-compatible)  
-Part of: Syntheos agent OS (Engram, Axon, Chiasm, Loom, Soma, Thymus, Broca)
 
 ---
 
